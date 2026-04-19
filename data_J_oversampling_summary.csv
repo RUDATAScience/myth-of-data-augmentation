@@ -1,0 +1,4 @@
+Metric,Count
+True Minority in Rating 1,233
+Majority Noise in Rating 1,272
+Missing Signal (Fugitives),767
